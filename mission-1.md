@@ -1,5 +1,5 @@
 ## Preface
-Before you satrt use vue you must finish some mission before.
+Before you start use vue you must finish some mission before.
 
 ## Mission 1
 
