@@ -15,9 +15,11 @@ Before you start use vue you must finish some mission before.
 - Title
 - Short description
 - Image
+- Posted Date
 - When click image or title will go to http://news.analisadaily.com/read/gunung-soputan-erupsi-tinggi-kolom-abu-vulkanik-4-km/627714/2018/10/03
 ##### Recent News List, make 5 news listing 
 - Title
 - Short description
 - Image
+- Posted Date
 - When click image or title will go to http://sport.analisadaily.com/read/paul-scholes-sindir-jose-mourinho/627720/2018/10/03
