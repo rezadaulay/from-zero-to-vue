@@ -1,3 +1,6 @@
+## Preface
+Before you satrt use vue you must finish some mission before.
+
 ## Mission 1
 
 ### Please make a news web page with specifications:

@@ -14,4 +14,4 @@
 - Titles, text, and links (https://getbootstrap.com/docs/4.1/components/card/#titles-text-and-links)
 - Images (https://getbootstrap.com/docs/4.1/components/card/#images)
 - List Group (https://getbootstrap.com/docs/4.1/components/card/#list-groups)
-- Make A Web Footer look like [Your Footer](https://raw.githubusercontent.com/rezadaulay/from-zero-to-vue/master/assets/images/mission-2-footer.png)
+- Make A Web Footer look like [Your Footer](https://raw.githubusercontent.com/rezadaulay/from-zero-to-vue/master/assets/images/mission-2-footer.png), for the icon don't worry you can use [fontawesome](https://fontawesome.com/v4.7.0/icons/)
