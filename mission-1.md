@@ -1,7 +1,7 @@
 ## Mission 1
 
 ### Please make a news web page with specifications:
-##### Navigation will with menus: 
+##### Navigation will with menus:
 - Home (link to: https://www.detik.com/)
 - News (link to: https://www.detik.com/)
 - Sport (link to: https://www.panditfootball.com/)

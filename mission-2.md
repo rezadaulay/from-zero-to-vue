@@ -4,7 +4,7 @@
 - Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins
 - Bootstrap also gives you the ability to easily create responsive designs
 
-###### More About Bootstrap:
+###### More About Bootstrap
 - https://www.w3schools.com/bootstrap/bootstrap_get_started.asp
 - http://getbootstrap.com/
 
